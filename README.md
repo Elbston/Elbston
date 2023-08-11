@@ -6,4 +6,4 @@
 
 
 ![Elbston's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elbston&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elbston&size_weight=0&count_weight=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3)
