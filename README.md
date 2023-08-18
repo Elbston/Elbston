@@ -1,11 +1,4 @@
-# <b>👾About me</b> 
 
-## <b> 😺just a little</b> 
-
-- 🔭 I’m currently working on: A project with Java
-- 🌱 I’m currently learning: Java, JS and C
-- 👯 I’m going to collaborate with: the weakness system for the game
-- ⚡ Fun fact: i like trains
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#eb4034&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Elbston+Filho;I'm+17+years+old;I'm+from+Brazil;I+study+computing;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -20,8 +13,9 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Elbston&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Elbston github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elbston&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+    <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elbston&theme=tokyonight" />
+  <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManoKondz&theme=tokyonight" />
+  <img width=60% align="center"  src="https://streak-stats.demolab.com?user=ManoKondz&theme=tokyonight&hide_border=true" />
 </div>
 
 
