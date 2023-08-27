@@ -1,9 +1,9 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Elbston+Filho;I'm+17+years+old;I'm+from+Brazil;I+study+computing;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Elbston&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/Elbston/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Elbston&bg_color=0d1117&color=b13583&line=800000&point=000576&area=true&hide_border=true)](https://github.com/Elbston/github-readme-activity-graph)
 
 
 <p align="center">
