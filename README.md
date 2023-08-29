@@ -13,7 +13,8 @@
 
 
 <div align="center">  
-    <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elbston&theme=dracula" />
+  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=Elbston&theme=shadow_red&show_icons=true"/>
+  <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elbston&theme=dracula" />
   <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elbston&theme=dracula" />
   <img width=60% align="center"  src="https://streak-stats.demolab.com?user=Elbston&theme=dracula&hide_border=true" />
 </div>
