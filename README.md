@@ -13,7 +13,6 @@
 
 
 <div align="center">  
-  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=Elbston&theme=shadow_red&show_icons=true"/>
   <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elbston&theme=dracula" />
   <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elbston&theme=dracula" />
   <img width=60% align="center"  src="https://streak-stats.demolab.com?user=Elbston&theme=dracula&hide_border=true" />
@@ -26,13 +25,20 @@
  </div>
  
  ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+<div>
+
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      
+</div>
 
 
 ### Studying in this moment:
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+<div>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
