@@ -18,8 +18,9 @@
   <img width=60% align="center"  src="https://streak-stats.demolab.com?user=Elbston&theme=dracula&hide_border=true" />
 </div>
 
+### My social media
 
-<div align="center"> 
+<div align="left"> 
 <a href="https://instagram.com/elbs.sz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/Elbston Souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
